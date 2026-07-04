@@ -172,15 +172,24 @@ Number cannot be less than zero
 
 ## 📸 Screenshots
 
-Include screenshots demonstrating:
-
 - Successful compilation
-- Contract deployment
-- Initial value
-- Increment operation
-- Decrement operation
+- <img width="1918" height="907" alt="Screenshot 2026-07-04 220420" src="https://github.com/user-attachments/assets/ea234e7c-d921-4350-a77f-9e465fd61740" />
 
-Store them inside the `screenshots/` folder.
+- Contract deployment
+- <img width="1918" height="917" alt="Screenshot 2026-07-04 220714" src="https://github.com/user-attachments/assets/c4a8ddba-65d4-4277-bdd7-7b7f5122cd7f" />
+
+- Initial value
+- <img width="1918" height="913" alt="Screenshot 2026-07-04 220927" src="https://github.com/user-attachments/assets/709c0ec3-ca15-4577-9601-283471d42d4a" />
+
+- Increment operation
+- <img width="1915" height="912" alt="Screenshot 2026-07-04 221057" src="https://github.com/user-attachments/assets/dbec4691-6680-47c4-bd24-c86acf2c141e" />
+
+<img width="1918" height="912" alt="Screenshot 2026-07-04 221206" src="https://github.com/user-attachments/assets/7d750b49-0b1f-46da-9c45-233295585645" />
+
+
+- Decrement operation
+- <img width="1917" height="906" alt="Screenshot 2026-07-04 221332" src="https://github.com/user-attachments/assets/bc0be36d-c1bd-4dd2-ace3-b541533d33ab" />
+<img width="1918" height="906" alt="Screenshot 2026-07-04 221447" src="https://github.com/user-attachments/assets/05c18529-8f63-4109-90b0-cb2b78fc0f2b" />
 
 ---
 
