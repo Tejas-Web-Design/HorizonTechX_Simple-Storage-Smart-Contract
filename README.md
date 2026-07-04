@@ -410,7 +410,7 @@ Possible enhancements include:
 
 **Tejasri Konidena**
 
-Aspiring Full Stack & Blockchain Developer
+# Horizon TechX Intern
 
 ---
 
